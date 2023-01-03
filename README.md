@@ -1,4 +1,4 @@
-<h1 align="center">Bot Anti Spam | Ban for Discord</h1>
+<h1 align="center">Bot Anti Spam and Ban for Discord</h1>
 <em><h5 align="center">(Programming Language - Node.js)</h5></em>
 
 # Tutorial to install the bot ! FOR LINUX (VPS or Dedicated Server)
