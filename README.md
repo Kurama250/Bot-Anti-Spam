@@ -16,7 +16,7 @@ apt-get install -y nodejs
 wget https://github.com/Kurama250/Bot-Anti-Spam/archive/refs/heads/main.zip
 unzip main.zip
 cd Bot-Anti-Spam-main/Anti-Spam/
-npm install discord.js
+npm install discord.js@12.5.1
 npm install pm2 -g
 ```
 ## 2 - on Terminal
