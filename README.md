@@ -8,6 +8,11 @@
 ```shell script
 apt update && apt upgrade -y
 apt install npm node.js zip
+curl -fsSL https://deb.nodesource.com/setup_16.x | bash - &&\
+apt-get install -y nodejs
+```
+
+```shell script
 wget https://github.com/Kurama250/Bot-Anti-Spam/archive/refs/heads/main.zip
 unzip main.zip
 cd Bot-Anti-Spam-main/Anti-Spam/
