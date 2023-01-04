@@ -1,6 +1,6 @@
 /*
  PROJECT ANTI SPAM BOT
- author : Anatik (https://github.com/Anatik572), Kurama (https://github.com/Kurama)
+ author : Anatik (https://github.com/Anatik572), Kurama (https://github.com/Kurama250)
 */
 
 // library
